@@ -93,7 +93,7 @@ hand.
 3. Optionally, remove what it leaves behind:
    - `~/Library/Application Support/Aspora`: its queue, history and settings.
    - `~/Library/Logs/Sparrow`: its log.
-   - `~/Aspora Inbox`: where files sent to your Mac arrive by default. Keep anything in there you still need.
+   - `~/Sparrow Inbox` (`~/Aspora Inbox` on Macs set up before October 2026): where files sent to your Mac arrive by default. Keep anything in there you still need.
    - In `~/Library/Group Containers`, the folder whose name ends in `.com.aspora`: Finder's records of the
      other Macs.
    - `~/Library/CloudStorage`: any `Sparrow-` folders that remain.
